@@ -4,7 +4,26 @@
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 <img src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif" alt="Coding" width="400" align="right">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yusrilprayoga-code&label=Profile%20views&color=0e75b6&style=flat" alt="yusrilprayoga-code" /> </p>
+## Profile Views
+ <table>
+    <tr>
+      <!-- <th>Profile Views</th> -->
+      <th>Total Count</th>
+    </tr>
+    <tr>
+      <!-- <td>
+        <div align="center">
+          <a href="https://github.com/Thinkright20"><img src="https://github.com/Thinkright20.png" alt="@Thinkright20" width="52" /></a>
+          <br />
+          <a align="center" href="https://github.com/thinkright20"><b>Thinkright20</b></a>
+        </b>
+      </td> -->
+      <!-- Profile Views -->
+      <td>
+         <a href="https://github.com/thinkright20"> <img src="https://komarev.com/ghpvc/?username=thinkright20&style=for-the-badge&color=brightgreen"> </a>
+      </td>
+    </tr>
+  </table>
 
 <p align="left"> <a href="https://twitter.com/yusrilprayoga" target="blank"><img src="https://img.shields.io/twitter/follow/yusrilprayoga?logo=twitter&style=for-the-badge" alt="yusrilprayoga" /></a> </p>
 
