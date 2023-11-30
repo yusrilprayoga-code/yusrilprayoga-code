@@ -49,7 +49,7 @@
 
 ## Languages I Know:
 
-<p align="left"> <a href="https://github.com/yusrilprayoga-code"><img src="https://skillicons.dev/icons?i=vscode,react,flutter,cpp,figma,ps,pr,github,mysql,css,html,js,nextjs,tailwindcss,nodejs"> </a> </p>
+<p align="left"> <a href="https://github.com/yusrilprayoga-code"><img src="https://skillicons.dev/icons?i=vscode,react,flutter,cpp,figma,ps,pr,github,mysql,css,dart,js,nextjs,tailwindcss,nodejs"> </a> </p>
 
 ## Activity On Github
 <p align="center">
