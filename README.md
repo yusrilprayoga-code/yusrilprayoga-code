@@ -1,4 +1,4 @@
-<img src="https://fleek-team-bucket.storage.fleek.co/thumbnails-blog/Next.png" >
+<img src="https://media.licdn.com/dms/image/D5616AQGGmuWSZQZ5VQ/profile-displaybackgroundimage-shrink_350_1400/0/1704207071405?e=1709769600&v=beta&t=4I-AR5VahvALjmqmlmbEgVzVDMvwfrlAFJkV9OkdidE" >
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Passionate%20Front%20End%20Developer;Learning%20React%20Js;1+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=E55604&vCenter=true&pause=1000&size=25" /></a>
 </p><br/>
