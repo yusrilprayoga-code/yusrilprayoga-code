@@ -22,13 +22,13 @@
 
 - 🔭 I’m currently working on [ArCipe](https://arcipe.netlify.app/)
 
-- 🌱 I’m currently learning **NEXT JS**
+- 🌱 I’m currently learning **NEXT JS, VUE JS**
 
 - 👨‍💻 All of my projects are available at [https://yusrilprayoga.netlify.app](https://yusrilprayoga.netlify.app)
 
 - 📝 I regularly write articles on [https://yusrilprayoga.netlify.app](https://yusrilprayoga.netlify.app)
 
-- 💬 Ask me about **React Js, Flutter, PHP**
+- 💬 Ask me about **React Js, Dart, PHP, TypeScript**
 
 - 📫 How to reach me **yusrilprayoga90@gmail.com**
 
