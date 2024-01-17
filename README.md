@@ -26,13 +26,9 @@
 
 - 👨‍💻 All of my projects are available at [https://yusrilprayoga.netlify.app](https://yusrilprayoga.netlify.app)
 
-- 📝 I regularly write articles on [https://yusrilprayoga.netlify.app](https://yusrilprayoga.netlify.app)
-
 - 💬 Ask me about **React Js, Dart, PHP, TypeScript**
 
 - 📫 How to reach me **yusrilprayoga90@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/14BdYpgA8otlE-HSAEswL6pVcltcDx_SS/edit?usp=sharing&ouid=107444422804307727158&rtpof=true&sd=true](https://docs.google.com/document/d/14BdYpgA8otlE-HSAEswL6pVcltcDx_SS/edit?usp=sharing&ouid=107444422804307727158&rtpof=true&sd=true)
 
 - ⚡ Fun fact **Why do programmers always hate summer? Because they are afraid of more "bugs" in summer than in winter! 😄🐞💻**
 
