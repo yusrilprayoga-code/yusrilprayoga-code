@@ -43,7 +43,7 @@
 
 ## Languages I Know:
 
-<p align="left"> <a href="https://github.com/yusrilprayoga-code"><img src="https://skillicons.dev/icons?i=js,php,dart,cpp,typescript,react,vue,nextjs,nodejs,laravel,flutter,ps,pr,github,tailwindcss"> </a> </p>
+<p align="left"> <a href="https://github.com/yusrilprayoga-code"><img src="https://skillicons.dev/icons?i=js,php,dart,cpp,typescript,react,vue,nextjs,nodejs,laravel,flutter,docker,github,tailwindcss"> </a> </p>
 
 ## Activity On Github
 <p align="center">
