@@ -24,7 +24,7 @@
 
 - 👨‍💻 All of my projects are available at [https://yusrilprayoga.netlify.app](https://yusrilprayoga.netlify.app)
 
-- 💬 Ask me about **React Js, Dart, PHP, TypeScript**
+- 💬 Ask me about **React Js, Flutter, PHP, TypeScript**
 
 - 📫 How to reach me **yusrilprayoga90@gmail.com**
 
