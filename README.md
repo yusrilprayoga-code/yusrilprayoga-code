@@ -59,4 +59,10 @@
 ## Most Languages
 <p align="center"><img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusrilprayoga-code&show_icons=true&locale=en&theme=gruvbox&bg_color=151515" alt="yusrilprayoga-code" /></p>
 
+# Snakes
+<br clear="both">
+
+<img src="https://github.com/yusrilprayoga-code/yusrilprayoga-code/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
+
+
 
