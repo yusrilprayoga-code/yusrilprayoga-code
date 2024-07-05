@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D5616AQGGmuWSZQZ5VQ/profile-displaybackgroundimage-shrink_350_1400/0/1704207071405?e=1720051200&v=beta&t=9WxOTraZD83I_qObbKmdbOPBDkVvCwe26OHwNe-nRUk" >
+<img src="https://media.licdn.com/dms/image/D5616AQGGmuWSZQZ5VQ/profile-displaybackgroundimage-shrink_350_1400/0/1704207071405?e=1725494400&v=beta&t=6a0EM_QcWNhekrJlyCmjMjRENPJOhwIL7G4VJfQq5hQ" >
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Passionate%20Front%20End%20Developer;Learning%20Next%20Js;1+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=E55604&vCenter=true&pause=1000&size=25" /></a>
 </p><br/>
@@ -58,11 +58,6 @@
 
 ## Most Languages
 <p align="center"><img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusrilprayoga-code&show_icons=true&locale=en&theme=gruvbox&bg_color=151515" alt="yusrilprayoga-code" /></p>
-
-# Snakes
-<br clear="both">
-
-<img src="https://github.com/yusrilprayoga-code/yusrilprayoga-code/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
 
 
 
