@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D5616AQGGmuWSZQZ5VQ/profile-displaybackgroundimage-shrink_350_1400/0/1704207071405?e=1725494400&v=beta&t=6a0EM_QcWNhekrJlyCmjMjRENPJOhwIL7G4VJfQq5hQ" >
+<img align="center" src="https://picstashdrive.vercel.app/_next/image?url=https%3A%2F%2Fmhowwpetxddomyk9.public.blob.vercel-storage.com%2FYusril%2520Prayoga%2520LinkedIn-j6FJXkduq35fEfgxJmZsqU2SFpSaE2.jpeg&w=828&q=75" >
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Passionate%20Front%20End%20Developer;Learning%20Next%20Js;1+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=E55604&vCenter=true&pause=1000&size=25" /></a>
 </p><br/>
