@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on [ArCipe](https://arcipe.netlify.app/)
 
-- 🌱 I’m currently learning **NEXT JS, VUE JS**
+- 🌱 I’m currently learning **NEXT JS, VUE JS, laravel**
 
 - 👨‍💻 All of my projects are available at [https://yusrilprayoga.netlify.app](https://yusrilprayoga.netlify.app)
 
