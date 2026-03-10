@@ -104,7 +104,7 @@
 
 <a href="https://open.spotify.com/track/24Y63uAvj6Oc9jGuTlhlgf">
 
-<img src="spotify-player.svg"/>
+<img src="https://raw.githubusercontent.com/yusrilprayoga-code/yusrilprayoga-code/main/spotify-payer.svg" width="720"/>
 
 </a>
 
