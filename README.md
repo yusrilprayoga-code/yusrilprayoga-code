@@ -104,13 +104,9 @@
 
 <a href="https://open.spotify.com/track/24Y63uAvj6Oc9jGuTlhlgf">
 
-<img src="https://i.scdn.co/image/ab67616d0000b273c6a8f9f9cbb18ce19e6f01cc" width="300"/>
+<img src="spotify-player.svg"/>
 
 </a>
-
-<br>
-
-<b>Click the cover to play on Spotify</b>
 
 </p>
 
