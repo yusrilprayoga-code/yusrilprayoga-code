@@ -14,7 +14,7 @@
 
 <img align="right" width="380" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif"/>
 
-- 🔭 Currently building **Dataiku**
+- 🔭 Currently building **Lumina-io**
 - 🌱 Learning **Next.js, Vue.js, Laravel**
 - 💬 Ask me about **React, Flutter, TypeScript**
 - 🌍 Portfolio  
