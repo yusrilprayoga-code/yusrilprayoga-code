@@ -10,11 +10,56 @@
 
 <!-- GITFUT CARD -->
 
-<p align="center">
+<table align="center">
+<tr>
+<td valign="top" width="230">
+
+**&mdash; ATTRIBUTES**
+
+| | |
+|---|---|
+| Skill moves | ★★★★★ |
+| Weak foot | ★★★☆☆ |
+| Work rate | `HIGH / LOW` |
+| Style | `EXPLOSIVE` |
+
+**&mdash; PLAYSTYLES**
+
+🎯 Prolific<br/>
+⏩ Rapid Fire<br/>
+⚡ Workhorse<br/>
+🌐 Polyglot
+
+</td>
+<td align="center" valign="middle" width="300">
+
 <a href="https://gitfut.com/yusrilprayoga-code">
-<img src="https://gitfut.com/yusrilprayoga-code.png" width="300" alt="GitFut card - Moh. Yusril Prayoga (80 RW)"/>
+<img src="https://gitfut.com/yusrilprayoga-code.png" width="280" alt="GitFut card - Moh. Yusril Prayoga (80 RW)"/>
 </a>
-</p>
+
+</td>
+<td valign="top" width="280">
+
+**&mdash; SCOUTING METRICS**
+
+| | | |
+|---|---|---:|
+| Commits | `1.1k` | ▰▰▰▰▰▰▰▰▰▱ **86** |
+| Stars earned | `73` | ▰▰▰▰▱▱▱▱▱▱ **35** |
+| Top repo reach | `4★` | ▰▱▱▱▱▱▱▱▱▱ **13** |
+| Pull requests | `5` | ▰▰▱▱▱▱▱▱▱▱ **23** |
+| Followers | `27` | ▰▰▰▱▱▱▱▱▱▱ **29** |
+| Languages | `8` | ▰▰▰▰▰▰▰▰▱▱ **78** |
+| Issues | `1` | ▰▱▱▱▱▱▱▱▱▱ **9** |
+| Contributions | `2.3k` | ▰▰▰▰▰▰▰▱▱▱ **71** |
+
+**&mdash; DISTRIBUTION**
+
+`TOP 0.34%` of GitHub · `TOP 2.3%` of active devs
+
+</td>
+</tr>
+</table>
 
 
 ---
