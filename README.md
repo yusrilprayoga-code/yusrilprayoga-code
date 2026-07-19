@@ -8,6 +8,15 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+Enthusiast;Building+Modern+Web+Apps;Open+Source+Learner"/>
 </p>
 
+<!-- GITFUT CARD -->
+
+<p align="center">
+<a href="https://gitfut.com/yusrilprayoga-code">
+<img src="https://gitfut.com/yusrilprayoga-code.png" width="300" alt="GitFut card - Moh. Yusril Prayoga (80 RW)"/>
+</a>
+</p>
+
+
 ---
 
 # 👨‍💻 About Me
