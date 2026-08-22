@@ -111,11 +111,14 @@
 # 📊 GitHub Stats Dashboard
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yusrilprayoga-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yusrilprayoga-code&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=yusrilprayoga-code&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+  />
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=yusrilprayoga-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5"
+  />
 </p>
 
 ---
